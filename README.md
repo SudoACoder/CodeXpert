@@ -42,6 +42,8 @@ Contributions are welcomed! Whether you have ideas, suggestions, or bug fixes, f
 
 We're just getting started, and with the help of the amazing open-source community, we aim to create a completely free and open-source Copilot!
 
+Even a simple thing like staring this repo can help a lot :)
+
 ## License
 
 This project is licensed under the Apache License 2.0.
