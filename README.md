@@ -39,6 +39,10 @@ Welcome to CodeXpert: your coding companion, always there to assist! This privac
 
 - [ ] Fix the shortcut customization feature in settings.
 - [ ] Upgrade the default Free server with GPU support (with donations in the future).
+- [ ] Jetbrains Support
+- [ ] Neovim Support
+- [ ] in Terminal Support!
+- [ ] GUI of extension!
 
 ## Contribution
 
