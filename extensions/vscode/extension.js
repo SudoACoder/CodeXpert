@@ -65,7 +65,7 @@ function activate(context) {
                             }
                         });
                 } else if (selectedItem.label === 'Change Server url') {
-                    vscode.window.showInputBox({ placeHolder: 'Enter The Server URL Like : http://127.0.0.1:7860 OR leave empty to use the default free server' })
+                    vscode.window.showInputBox({ placeHolder: 'Enter The Server URL Like : https://mrali-codexpert.hf.space/api OR leave empty to use the default free server' })
                     .then(value => {
                         if (value) {
                             // Save the url value
@@ -98,7 +98,7 @@ async function sendCodeToServer(code, mode) {
     const url = vscode.workspace.getConfiguration().get('codexpert.serverurl')
     await vscode.window.withProgress({
         location: vscode.ProgressLocation.Notification,
-        title: `(${mode}) Let me think!...)`,
+        title: `${mode} Let me think...`,
         cancellable: false
     }, async (progress, token) => {
         try {
@@ -109,7 +109,7 @@ async function sendCodeToServer(code, mode) {
                 prompt: code,
                 mode: mode // Use the mode provided as an argument
             };
-            const response = await axios.post(`${url}/api`, requestData, {
+            const response = await axios.post(url, requestData, {
                 headers: headers
             });
 
