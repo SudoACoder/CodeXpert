@@ -1,8 +1,7 @@
 <p align="center">
-   <img src="https://github.com/SudoACoder/CodeXpert/assets/58640233/643af3aa-3d4b-4291-bcfd-0d14aa0c68bb" alt="logo image"/>
+   <img src="https://github.com/SudoACoder/CodeXpert/assets/58640233/cd8068fc-09d7-49dc-9091-61cf4fdefef3" alt="logo image"/>
    <h1 align="center">a revolutionary coding experience with CodeXpert!</h1>
 </p>
-
 
 Welcome to CodeXpert: your coding companion, always there to assist! This privacy-centric, completely free, open-source tool seamlessly operates with servers or offline. With our VS Code extension, coding becomes effortless, thanks to advanced language models. Embrace a revolutionary coding experience with CodeXpert!
 
