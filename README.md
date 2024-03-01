@@ -1,3 +1,6 @@
+Fixing the server 404 Bug! ... 
+
+
 <p align="center">
    <img src="https://github.com/SudoACoder/CodeXpert/assets/58640233/cd8068fc-09d7-49dc-9091-61cf4fdefef3" alt="logo image"/>
    <h1 align="center">a revolutionary coding experience with CodeXpert!</h1>
