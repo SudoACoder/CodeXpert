@@ -19,7 +19,7 @@ CodeXpert is your coding companion, providing advanced language models and a pri
 
 ## Installation
 
-1. [Install the VS Code Extension](https://marketplace.visualstudio.com/items?itemName=codexpert.codexpert).
+1. Install the VS Code Extension.
    
 2. *(Optional)* For faster performance or enhanced privacy, clone this repository and run `server.py`:
    
