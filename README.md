@@ -53,22 +53,6 @@ CodeXpert is your coding companion, providing advanced language models and a pri
 
 Contributions are welcomed! Whether you have ideas, suggestions, or bug fixes, feel free to open an issue or submit a pull request. Alternatively, you can contribute by addressing items on the to-do list.
 
-We're just getting started, and with the help of the amazing open-source community, we aim to create a completely free and open-source Copilot!
-
-Even a simple thing like staring this repo can help a lot :)
-
-If you find CodeXpert helpful and would like to support its development, consider making a donation. Your contribution helps us continue to enhance and maintain the project.
-
-| Cryptocurrency | Address                                 | QR Code                                                          |
-|----------------|-----------------------------------------|------------------------------------------------------------------|
-| Bitcoin (BTC)                   | bc1qzjgfu2xqrr6v50j8cn32tuqegnd8977hy3vvp4  |<img src="https://github.com/SudoACoder/CodeXpert/assets/58640233/7f1e1fac-e535-4265-a430-bfe7584905a0" alt="Example Image" width="96" height="96">|
-| Ethereum (ETH) & Polygon (MATIC)| 0x24F551b7297Fe83b9d0e8e53155D6dcd29830f27  |<img src="https://github.com/SudoACoder/CodeXpert/assets/58640233/3b6dae5a-82cd-465c-a9ce-b779daa6827e" alt="Example Image" width="96" height="96">|
-| Litecoin (LTC)                  | ltc1qav9mpvha3dp685u558wqxngm5mgqnh9cwr262v |<img src="https://github.com/SudoACoder/CodeXpert/assets/58640233/3992728e-169c-49d4-9c5f-b58c4c0f0466" alt="Example Image" width="96" height="96">|
-| Tron (TRX)                      | TCBpAcXR1C4kWiKvHnZfFg4dFaGSXpL2L9          |<img src="https://github.com/SudoACoder/CodeXpert/assets/58640233/2762902e-fc02-4251-b2b4-a726cf2455ad" alt="Example Image" width="96" height="96">|
-| Ripple (XRP)                    | rszZreZt3KAaRp5j4CH3xHA9YcBUTUBZk1          |<img src="https://github.com/SudoACoder/CodeXpert/assets/58640233/9b296360-2780-498f-87d1-57cda4f8c8cf" alt="Example Image" width="96" height="96">|
-
-With your donations, we plan to upgrade the default server with GPU support, which is currently almost unusable. Your support will enable us to provide a smoother and more efficient experience for all users. Thank you for your generosity!
-
 ## License
 
 This project is licensed under the Apache License 2.0.
