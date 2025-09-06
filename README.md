@@ -1,3 +1,8 @@
+⚠️ **Warning:** This extension is no longer active and has been **removed from the VS Code Marketplace**.
+It is no longer maintained, and functionality may be broken or unavailable.  
+Use at your own risk.
+
+
 <p align="center">
    <img src="https://github.com/SudoACoder/CodeXpert/assets/58640233/127b2ad3-f325-41d7-95d0-ea2dc446b9ec" alt="banner"/>
    <h1 align="center">a revolutionary coding experience with Code Xpert!</h1>
